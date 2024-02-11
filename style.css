@@ -162,6 +162,12 @@ main{
     .cards .item{
         width: 200px;
     }
+    .cards .overlay-text{
+        font-size: 15px;
+    }
+    .cards .overlay-para{
+        font-size: 10px;
+    }
 }
 
 @media only screen and (min-width:481px) and (max-width:768px) {
